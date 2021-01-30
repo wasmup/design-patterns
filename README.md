@@ -4,6 +4,7 @@
 
 ### Concurrent Singleton Design Pattern in the Go (Golang)
 
+Try it on [The Go Playground](https://play.golang.org/p/UGZ4k6Gli39)
 ```go
 package main
 
